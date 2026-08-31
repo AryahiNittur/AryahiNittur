@@ -37,7 +37,3 @@
         <img src="./assets/linkedin-rounded-icon.jpg" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
-
-<!--
-     Oh, hello there, recruiters!
--->
