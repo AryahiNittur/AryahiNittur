@@ -1,9 +1,43 @@
-## Hi there 👋
+<!--
+    Hi, I'm Aryahi Nittur!
+    Happy to see you here exploring my README code
+    You may also want to connect with me on LinkedIn @aryahi-nittur
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aryahi+Nittur;Software+Developer" alt="Software Developer"/>
+</a>
 
 <!--
-**AryahiNittur/AryahiNittur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-Here are some ideas to get you started:
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
 
-- I'm currently working with python
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,eclipse,java,react,cpp,html,css,notion)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+<!--
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/aryahi-nittur/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
 -->
