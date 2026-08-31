@@ -22,7 +22,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,eclipse,java,react,cpp,html,css,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,ros,linux,c,cpp,cmake,git,github,vscode,react&perline=6&theme=dark)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
